@@ -4,10 +4,9 @@
 
 A Content Delivery Network (CDN) is a globally distributed network of servers that improves the speed and efficiency of delivering digital content to users. Instead of depending on a single origin server, a CDN stores cached versions of files such as web pages, scripts, images, and videos across multiple edge servers located in different regions. When a user accesses content, the CDN selects the nearest server, which reduces latency and speeds up loading. CDNs are widely used in modern web applications to manage heavy traffic, ensure faster performance, increase reliability, and enhance security. They help businesses scale globally by making websites and apps accessible quickly from different parts of the world.
 
-![alt text](image.png)
+![CDN] (/home/balajyothi/CDN.webp)
 
 ## How CDNs Work
-
 1. A user requests a file such as an image, CSS file, or video.
 
 2. The CDN routes the request to the closest edge server based on the user’s location.
